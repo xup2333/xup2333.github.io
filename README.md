@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## xup
 
-You can use the [editor on GitHub](https://github.com/xup2333/xup2333.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+永久站点地址:http://xup2333.github.io
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+xup是up白异缘浅制作的整活、软件网站。初期制作，简陋请谅解!
 
-### Markdown
+### 关于捐赠与投稿
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我想了很久，才终于决定发起一会自愿选择性捐赠活动，因为某些原因，所以我把每次的捐赠金额设为微信支付，
+每次0.01元$_$。
 
-```markdown
-Syntax highlighted code block
+```再三强调
+本次活动完全是自愿的!
 
-# Header 1
-## Header 2
-### Header 3
+# 捐赠:https://wwn.lanzoui.com/b02oi6t1g，密码:9sy3
+## 投稿:作者邮箱1700322698@qq.com
+### 作者副邮箱1979689094@qq.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xup2333/xup2333.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
