@@ -1,7 +1,5 @@
 ## xup
 
-## xup
-
 永久站点地址:http://xup2333.github.io
 
 Permanent site address: http://xup2333.github.io
@@ -22,14 +20,19 @@ After thinking for a long time, I finally decided to launch a voluntary selectiv
 
 This activity is completely voluntary!
 
-# 捐赠:https://wwn.lanzoui.com/b02oi6t1g，密码:9sy3
+## 捐赠:
+https://wwn.lanzoui.com/b02oi6t1g，密码:9sy3
 
-#Donation: https://wwn.lanzoui.com/b02oi6t1g , password: 9sy3
+## Donation: 
+https://wwn.lanzoui.com/b02oi6t1g , password: 9sy3
 
-## 投稿:作者邮箱1700322698@qq.com
+## 投稿:
+作者邮箱1700322698@qq.com
 
-##Submission: author's email 1700322698@qq.com
+## Submission: 
+author's email 1700322698@qq.com
 
-### 作者副邮箱1979689094@qq.com
+## 作者副邮箱1979689094@qq.com
 
-###Author's deputy email 1979689094@qq.com
+## Author's deputy email 1979689094@qq.com
+
