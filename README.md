@@ -1,7 +1,7 @@
-# hello，Word!
+ # hello，World!
 
-1. go play
+ go play
 
-2. 主页
+ 主页
 
 
